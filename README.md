@@ -1,4 +1,4 @@
-# FINN.no Torget Scraper — Norwegian Marketplace
+# FINN.no Torget Scraper
 
 Extract structured data from [FINN.no](https://FINN.no) — classified listings from FINN.no Torget — Norway's largest marketplace. Extract prices, condition, seller info, images, locations, and full descriptions from 11 categories across all Norwegian counties.
 
