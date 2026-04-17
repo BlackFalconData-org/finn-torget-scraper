@@ -2,11 +2,12 @@
 
 Extract structured data from [FINN.no](https://FINN.no) — classified listings from FINN.no Torget — Norway's largest marketplace. Extract prices, condition, seller info, images, locations, and full descriptions from 11 categories across all Norwegian counties.
 
-**[FINN.no Torget Scraper on Apify →](https://apify.com/blackfalcondata/finn-torget-scraper)**
+**[Finn Torget Scraper - Norwegian Marketplace on Apify →](https://apify.com/blackfalcondata/finn-torget-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [FINN.no](https://FINN.no) — classified listings 
 ---
 
 ## Use cases
+
 
 
 
@@ -85,6 +87,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
